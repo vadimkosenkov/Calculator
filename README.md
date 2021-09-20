@@ -1,3 +1,3 @@
 # Calculator
 
-vadimkosenkov.github.io/calculator/
+https://vadimkosenkov.github.io/Calculator/
